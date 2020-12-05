@@ -1,0 +1,6 @@
+{
+    "dart.flutterHotRestartOnSave": false,
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dartImport.fixOnSave": true,
+    "editor.formatOnSave": true
+}
